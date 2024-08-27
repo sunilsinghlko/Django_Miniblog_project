@@ -1,0 +1,27 @@
+body{
+    background: rgb(75,74,74);
+    color: antiquewhite;
+}
+.mynav a{
+    color: antiquewhite;
+}
+.jumbo-color{
+    background: rgb(83,81,81);
+}
+.lead{
+    text-align: justify;
+}
+.contact-form {
+    
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    
+    
+}
+label{
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
